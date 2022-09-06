@@ -12,6 +12,8 @@ license:
 
 This repo contains the model and the notebook [to this Keras example on OCR model for reading captcha](https://keras.io/examples/vision/captcha_ocr/).
 
+You can use the trained model hosted on [Hugging Face Hub](https://huggingface.co/keras-io/ocr-for-captcha) and try the demo on [Hugging Face Spaces](https://huggingface.co/spaces/keras-io/ocr-for-captcha).
+
 Full credits to: [Aakash Kumar Nain](https://twitter.com/A_K_Nain)
 
 ## Background Information 
